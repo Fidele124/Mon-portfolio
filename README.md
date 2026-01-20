@@ -24,10 +24,10 @@ Ce portfolio moderne et responsive présente :
 
 ```bash
 # Cloner le repository
-git clone https://github.com/fidelelokossou/portfolio.git
+git clone https://github.com/Fidele124/Mon-portfolio.git
 
 # Aller dans le dossier
-cd portfolio
+cd Mon-portfolio
 
 # Installer les dépendances
 npm install
@@ -41,14 +41,14 @@ npm run build
 
 ## 🌐 Démo en ligne
 
-[Voir le portfolio en ligne](https://fidelelokossou.github.io/portfolio)
+[Voir le portfolio en ligne](https://Fidele124.github.io/Mon-portfolio)
 
 ## 📧 Contact
 
 - **Email** : fidelelokossou38@gmail.com
 - **Téléphone** : +241 062 30 71 00
 - **Localisation** : Libreville, Gabon
-- **GitHub** : [github.com/fidelelokossou](https://github.com/fidelelokossou)
+- **GitHub** : [github.com/Fidele124](https://github.com/Fidele124)
 
 ## 📄 Licence
 
